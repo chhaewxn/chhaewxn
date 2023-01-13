@@ -11,9 +11,14 @@
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> </a>
+ </br>
+<a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> </a>
+<a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> </a>
 </p>
 <div align="center">
  
 <h3 align="center">🙂 Chhaewxn Stats 🙂</h3>
 
-[![chhaewxn's github stats](https://github-readme-stats.vercel.app/api?username=chhaewxn&show_icons=true)](https://github.com/chhaewxn)
+[![chhaewxn's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chhaewxn&show_icons=true)](https://github.com/chhaewxn)
+
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chhaewxn)](https://github.com/chhaewxn/github-readme-stats)
