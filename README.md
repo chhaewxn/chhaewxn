@@ -16,7 +16,15 @@
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> </a>
 </p>
 <div align="center">
- 
+ </br>
+<h3 align="center">🌿 Contact 🌿</h3>
+<p align="center">
+<a href="https://github.com/chhaewxn"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+ <a href="https://velog.io/@chhaewxn"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="mailto:chaewon1019@ewhain.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+<div align="center">
+ </br>
 <h3 align="center">🙂 Chhaewxn Stats 🙂</h3>
 
 [![chhaewxn's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chhaewxn&show_icons=true)](https://github.com/chhaewxn)
