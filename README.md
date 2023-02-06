@@ -1,5 +1,4 @@
 <h2 align="center">Chaewon Song @chhaewxn</h2>
-<h4 align="center">안녕하세요! 저는 송채원입니다 😊</h4>
 
 <h3 align="center">👩‍💻 Tech Stack 👩‍💻</h3>
 <p align="center">
