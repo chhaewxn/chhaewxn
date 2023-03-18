@@ -13,6 +13,7 @@
  </br>
 <a><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> </a>
 <a><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> </a>
+<a><img src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"> </a>
 </p>
 <div align="center">
 
@@ -25,7 +26,5 @@
 <div align="center">
 
 <h3 align="center">🙂 Chhaewxn Stats 🙂</h3>
-
-[![chhaewxn's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chhaewxn&show_icons=true)](https://github.com/chhaewxn)
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chhaewxn)](https://github.com/chhaewxn/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chhaewxn&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chhaewxn&layout=compact" />
