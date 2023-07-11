@@ -1,8 +1,8 @@
 <div align="center">
-<h3>Chaewon Song @chhaewxn</h3>
+<h2>Chaewon Song @chhaewxn</h2>
 🐳🦈🐬🦭🐟🦈🐳
-
----
+<br>
+<br>
 
 <h3>👩‍💻 Tech Stack 👩‍💻</h3>
 <p>
