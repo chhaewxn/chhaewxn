@@ -1,8 +1,5 @@
 <div align="center">
 <h2>Chaewon Song @chhaewxn</h2>
-🐳🦈🐬🦭🐟🦈🐳
-<br>
-<br>
 
 <h3>👩‍💻 Tech Stack 👩‍💻</h3>
 <p>
@@ -18,8 +15,10 @@
 <h3>🌿 Contact 🌿</h3>
 <p>
 <a href="https://github.com/chhaewxn"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
- <a href="https://velog.io/@chhaewxn"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://velog.io/@chhaewxn"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:chaewon1019@ewhain.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/chaewon-song-319371276/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
+ 
 </p>
 
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chhaewxn&show_icons=true" />
