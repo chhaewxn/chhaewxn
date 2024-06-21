@@ -14,10 +14,10 @@
 ### 🔗 Experience
 
 - WE-UP 튜터링 프로그램 미분적분학 피어튜터 (2022.03 ~ 2022.07)
-- 서울런(Seoul Learn) 오프라인 수학 멘토 (2022.03 ~ 2022.07)
-- 이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend 인턴 (2022.03 ~ 2022.07)
-- GDSC(Google Developer Student Club Ewha 4기) 개발자 커뮤니티 Member (2022.03 ~ 2022.07)
-- KISA 인공지능 서비스 개발 과정- GenAI 활용 금융데이터 모델링 (2022.03 ~ 2022.07)
+- 서울런(Seoul Learn) 오프라인 수학 멘토 (2022.03 ~ 2024.12)
+- 이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend 인턴 (2023.03 ~ 2023.12)
+- GDSC(Google Developer Student Club Ewha 4기) 개발자 커뮤니티 Member (2023.03 ~ 2023.07)
+- KISA 인공지능 서비스 개발 과정- GenAI 활용 금융데이터 모델링 (2023.08 ~ 2023.08)
 - 한국공학한림원 산하	Young Engineers Honor Society (YEHS) 기획1부 차장 (2023.09 ~ 2024.12) 
 - 2024 오픈소스 컨트리뷰션 아카데미(체험형) - Git활용 및 Gemma를 이용한 LLM 앱 개발 (2024.04 ~ 2024.05) 
 
