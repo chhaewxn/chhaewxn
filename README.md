@@ -8,8 +8,9 @@
 <a href="https://www.linkedin.com/in/chaewon-song-319371276/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
 </p>
 
-### 🏫 Education
+### 👩‍💻 Career
 - B.Eng. in Computer Science & Engineering, Ewha Womans University *2020. 03. ~ 2025. 02.*
+- Air Liquide Process Automation Engineer Intern *2024. 07. ~ now*
 
 ### 🔗 Experience
 
