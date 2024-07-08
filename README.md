@@ -10,7 +10,7 @@
 
 ### 👩‍💻 Career
 - B.Eng. in Computer Science & Engineering, Ewha Womans University *2020. 03. ~ 2025. 02.*
-- Air Liquide Process Automation Engineer Intern *2024. 07. ~ now*
+- Air Liquide Process Summer Internship, Automation Engineer Intern *2024. 07. ~ now*
 
 ### 🔗 Experience
 
@@ -21,7 +21,8 @@
 - KISA 인공지능 서비스 개발 과정- GenAI 활용 금융데이터 모델링 (2023.08 ~ 2023.08)
 - 한국공학한림원 산하	Young Engineers Honor Society (YEHS) 기획1부 차장 (2023.09 ~ 2024.12) 
 - 2024 오픈소스 컨트리뷰션 아카데미(체험형) - Git활용 및 Gemma를 이용한 LLM 앱 개발 (2024.04 ~ 2024.05) 
-
+- 2024 오픈소스 컨트리뷰션 아카데미(참여형) - Hugging Face OSS (2024.07 ~ now)
+- 
 ### 💻 Project
 
 - Eday: 예비 이화인을 위한 퀴즈 서비스 (2023.07 ~ 2023.08)
