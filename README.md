@@ -10,7 +10,7 @@
 
 ### 👩‍💻 Career
 - B.Eng. in Computer Science & Engineering, Ewha Womans University *2020. 03. ~ 2025. 02.*
-- Air Liquide Process Summer Internship, Automation Engineer Intern *2024. 07. ~ now*
+- Air Liquide Summer Internship, Process Automation Engineer Intern *2024. 07. ~ now*
 
 ### 🔗 Experience
 
