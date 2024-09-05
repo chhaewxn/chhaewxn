@@ -10,7 +10,8 @@
 
 ### 👩‍💻 Career
 - B.Eng. in Computer Science & Engineering, Ewha Womans University *2020. 03. ~ 2025. 02.*
-- Air Liquide Summer Internship, Process Automation Engineer Intern *2024. 07. ~ now*
+- Air Liquide Summer Internship, Process Automation Engineer Intern *2024. 07. ~ 2024. 08.*
+- MINDs and company Internship, AI Engineer Intern *2024. 09. ~ now*
 
 ### 🔗 Experience
 
@@ -25,11 +26,11 @@
   
 ### 💻 Project
 
-- Eday: 예비 이화인을 위한 퀴즈 서비스 (2023.07 ~ 2023.08)
-- Fin-Pro: 금융데이터 활용 AI 모델링 기반 보험료 예측 서비스 (2023.08 ~ 2023.08)
-- Lets-JUPJUP: 주민 주도형 플로깅 주최/참여 웹서비스 (2023.09 ~ 2023.12) 
-- BellyWelly: AI를 활용해 맞춤형 건강 조언을 제공하는 과민대장증후군 관리 어플리케이션 (2023.09 ~ 2024.06)
-- EduPlanner: LLM을 활용한 학생을 위한 일대일 학습코칭 서비스 (2024.04 ~ 2024.05)
+- Eday: Quiz Service for Prospective Ewha Students (2023.07 ~ 2023.08)
+- Fin-Pro: Insurance Premium Prediction Service Based on AI Modeling Using Financial Data (2023.08 ~ 2023.08)
+- Lets-JUPJUP: Resident-led Plogging Organization/Participation Web Service (2023.09 ~ 2023.12) 
+- BellyWelly: Irritable Bowel Syndrome(IBS) Management Application Providing Personalized Health Advice Using GenAI (2023.09 ~ 2024.06)
+- EduPlanner: One-on-One Learning Coaching Service for Students Utilizing LLM (2024.04 ~ 2024.05)
 
 ### 🏆 Competition
 
@@ -41,10 +42,6 @@
 - 경산이노베이션아카데미 미래융합인재발굴 소프트웨어 챌린지 우수상 [2024.07.12]
 
 ### 🛠 I'm interested in
-- Programming Language : 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-073551?style=flat-square&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)
 - Web Backend Engineering :
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white)
@@ -57,6 +54,8 @@
 - Generative AI :
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white)
+
 
 <br>
 <div>
