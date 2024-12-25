@@ -22,7 +22,7 @@
 - KISA 인공지능 서비스 개발 과정- GenAI 활용 금융데이터 모델링 (2023.08 ~ 2023.08)
 - 한국공학한림원 산하	Young Engineers Honor Society (YEHS) 기획1부 차장 (2023.09 ~ 2024.12) 
 - 2024 오픈소스 컨트리뷰션 아카데미(체험형) - Git활용 및 Gemma를 이용한 LLM 앱 개발 (2024.04 ~ 2024.05) 
-- 2024 오픈소스 컨트리뷰션 아카데미(참여형) - Hugging Face OSS (2024.07 ~ now)
+- 2024 오픈소스 컨트리뷰션 아카데미(참여형) - Hugging Face OSS (2024.07 ~ 2024.12)
   
 ### 💻 Project
 
@@ -41,7 +41,7 @@
 - 이화여자대학교 캡스톤디자인과창업프로젝트 최우수상 [2024.06.21]
 - 경산이노베이션아카데미 미래융합인재발굴 소프트웨어 챌린지 우수상 [2024.07.12]
 - 이화여자대학교 캡스톤경진대회 융합전공 부문 은상 [2024.12.02]
-
+- 2024 오픈소스 컨트리뷰션 아카데미(OSSCA) 특별상 HuggingFace OSS [2024.12.06]
 ### 🛠 I'm interested in
 - Web Backend Engineering :
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
