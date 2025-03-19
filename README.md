@@ -17,12 +17,13 @@
 
 * WE-UP Tutoring Program Mathematics Calculus Peer Tutor (Mar 2022 - Jul 2022)
 * Seoul Learn Offline Mathematics Mentor (Mar 2022 - Dec 2024)
-* Ewha Women's University Web Development Career Club EFUB (Ewha Frontend UXUI Backend) 3rd Backend Intern (Mar 2023 - Dec 2023)
-* GDSC (Google Developer Student Club Ewha 4th) Developer Community Member (Mar 2023 - Jul 2023)
+* Ewha Women's University Web Development Career Club EFUB 3rd Backend Intern (Mar 2023 - Dec 2023)
+* GDSC(Google Developer Student Club Ewha 4th) Developer Community Member (Mar 2023 - Jul 2023)
 * KISA Artificial Intelligence Service Development Course - GenAI Application for Financial Data Modeling (Aug 2023)
-* Young Engineers Honor Society (YEHS) under National Academy of Engineering of Korea, Planning Division 1 Deputy Manager (Sep 2023 - Dec 2024)
+* Young Engineers Honor Society(YEHS) under National Academy of Engineering of Korea, Planning Deputy Manager (Sep 2023 - Dec 2024)
 * 2024 Open Source Contribution Academy (Experience Program) - Git Utilization and LLM App Development with Gemma (Apr 2024 - May 2024)
 * 2024 Open Source Contribution Academy (Participation Program) - Hugging Face OSS (Jul 2024 - Dec 2024)
+* Young Engineers Honor Society (YEHS) under National Academy of Engineering of Korea, Social Contribution Manager (Dec 2024 - now)
 * Data Science Team, EPOCH 3rd Generation (Mar 2025 - now)
   
 ### 💻 Project
@@ -57,10 +58,3 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=OpenAI&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white)
-
-
-<br>
-<div>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chhaewxn&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chhaewxn&layout=compact" />
-</div>
