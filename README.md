@@ -15,14 +15,15 @@
 
 ### 🔗 Experience
 
-- WE-UP 튜터링 프로그램 미분적분학 피어튜터 (2022.03 ~ 2022.07)
-- 서울런(Seoul Learn) 오프라인 수학 멘토 (2022.03 ~ 2024.12)
-- 이화여자대학교 웹개발 커리어클럽 EFUB(Ewha Frontend UXUI Backend) 3기 Backend 인턴 (2023.03 ~ 2023.12)
-- GDSC(Google Developer Student Club Ewha 4기) 개발자 커뮤니티 Member (2023.03 ~ 2023.07)
-- KISA 인공지능 서비스 개발 과정- GenAI 활용 금융데이터 모델링 (2023.08 ~ 2023.08)
-- 한국공학한림원 산하	Young Engineers Honor Society (YEHS) 기획1부 차장 (2023.09 ~ 2024.12) 
-- 2024 오픈소스 컨트리뷰션 아카데미(체험형) - Git활용 및 Gemma를 이용한 LLM 앱 개발 (2024.04 ~ 2024.05) 
-- 2024 오픈소스 컨트리뷰션 아카데미(참여형) - Hugging Face OSS (2024.07 ~ 2024.12)
+* WE-UP Tutoring Program Mathematics Calculus Peer Tutor (Mar 2022 - Jul 2022)
+* Seoul Learn Offline Mathematics Mentor (Mar 2022 - Dec 2024)
+* Ewha Women's University Web Development Career Club EFUB (Ewha Frontend UXUI Backend) 3rd Backend Intern (Mar 2023 - Dec 2023)
+* GDSC (Google Developer Student Club Ewha 4th) Developer Community Member (Mar 2023 - Jul 2023)
+* KISA Artificial Intelligence Service Development Course - GenAI Application for Financial Data Modeling (Aug 2023)
+* Young Engineers Honor Society (YEHS) under National Academy of Engineering of Korea, Planning Division 1 Deputy Manager (Sep 2023 - Dec 2024)
+* 2024 Open Source Contribution Academy (Experience Program) - Git Utilization and LLM App Development with Gemma (Apr 2024 - May 2024)
+* 2024 Open Source Contribution Academy (Participation Program) - Hugging Face OSS (Jul 2024 - Dec 2024)
+* Data Science Team, EPOCH 3rd Generation (Mar 2025 - now)
   
 ### 💻 Project
 
@@ -33,15 +34,15 @@
 - EduPlanner: One-on-One Learning Coaching Service for Students Utilizing LLM (2024.04 ~ 2024.05)
 
 ### 🏆 Competition
-
-- 이화여자대학교 소프트웨어중심대학사업단 SW 창업경진대회 장려상 [2023.11.17]
-- ICT콤플렉스 제2회 SW개발 공모전 '피우다 프로젝트' 우수상 [2023.11.30]
-- 웹개발 커리어클럽 EFUB 3기 백엔드 인턴 우수개발자상 수상 [2023.12.02]
-- 2023년도 교육복지유공 서울특별시장 표창 [2023.12.18]
-- 이화여자대학교 캡스톤디자인과창업프로젝트 최우수상 [2024.06.21]
-- 경산이노베이션아카데미 미래융합인재발굴 소프트웨어 챌린지 우수상 [2024.07.12]
-- 이화여자대학교 캡스톤경진대회 융합전공 부문 은상 [2024.12.02]
-- 2024 오픈소스 컨트리뷰션 아카데미(OSSCA) 특별상 HuggingFace OSS [2024.12.06]
+- Excellence Award at Ewha Womans University Software-Centered University Project's SW Entrepreneurship Competition [Nov 17, 2023]
+- Outstanding Award at the 2nd ICT Complex SW Development Competition 'Piouda Project' [Nov 30, 2023]
+- Outstanding Developer Award, EFUB 3rd Generation Backend Intern, Web Development Career Club [Dec 02, 2023]
+- Seoul Mayor's Commendation for Educational Welfare Contributions [Dec 18, 2023]
+- Grand Prize at Ewha Womans University Capstone Design and Entrepreneurship Project [Jun 21, 2024]
+- Excellence Award at Gyeongsan Innovation Academy Future Convergence Talent Discovery Software Challenge [Jul 12, 2024]
+- Silver Award in the Convergence Major Category at Ewha Womans University Capstone Competition [Dec 02, 2024]
+- Special Recognition Award at 2024 Open Source Contribution Academy (OSSCA), HuggingFace OSS [Dec 06, 2024]
+  
 ### 🛠 I'm interested in
 - Web Backend Engineering :
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
