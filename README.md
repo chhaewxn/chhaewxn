@@ -4,7 +4,7 @@
 <a href="https://github.com/chhaewxn"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://velog.io/@chhaewxn"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:chaewon1019@ewhain.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/chaewon-song-319371276/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
+<a href="https://www.linkedin.com/in/chaewon-song-319371276/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)"/></a>
 </p>
 
 ### 👩‍💻 Career
@@ -12,9 +12,9 @@
 - Air Liquide Summer Internship, Process Automation Engineer Intern *2024. 07. ~ 2024. 08.*
   
 ### 💻 Project
-- BellyWelly: Irritable Bowel Syndrome(IBS) Management Application Providing Personalized Health Advice Using GenAI *2023.09 ~ 2024.06*
+- BellyWelly: Irritable Bowel Syndrome(IBS) Management Application Providing Personalized Health Advice *2023.09 ~ 2024.06*
 - Lets-JUPJUP: Resident-led Plogging Organization/Participation Web Service *2023.09 ~ 2023.12*
-- Fin-Pro: Insurance Premium Prediction Service Based on AI Modeling Using Financial Data *2023.08 ~ 2023.08*
+- Fin-Pro: Insurance Premium Prediction Service Based on AI Modeling Using Financial Data *2023.08*
 - Eday: Quiz Service for Prospective Ewha Students *2023.07 ~ 2023.08*
 
 ### 🏆 Reward
@@ -26,7 +26,7 @@
 - Seoul Mayor's Commendation for Educational Welfare Contributions [Dec 18, 2023]
 - Outstanding Developer Award, EFUB 3rd Generation Backend Intern, Web Development Career Club [Dec 02, 2023]
 - Outstanding Award at the 2nd ICT Complex SW Development Competition 'Piouda Project' [Nov 30, 2023]
-- Excellence Award at Ewha Womans University Software-Centered University Project's SW Entrepreneurship Competition [Nov 17, 2023]
+- Excellence Award at Software-Centered University Project's SW Entrepreneurship Competition [Nov 17, 2023]
   
 ### 🛠 I'm interested in
 - Web Backend Engineering :
