@@ -8,8 +8,9 @@
 </p>
 
 ### 👩‍💻 Career
-- MINDs and company Internship, AI Engineer Intern *2024. 09. ~ 2025. 03.*
-- Air Liquide Summer Internship, Process Automation Engineer Intern *2024. 07. ~ 2024. 08.*
+- F&F, AI Engineer Intern *2025. 06. ~ now* 
+- MINDs and company, AI Engineer Intern *2024. 09. ~ 2025. 03.*
+- Air Liquide Korea, Process Automation Engineer Intern *2024. 07. ~ 2024. 08.*
   
 ### 💻 Project
 - BellyWelly: Irritable Bowel Syndrome(IBS) Management Application Providing Personalized Health Advice *2023.09 ~ 2024.06*
