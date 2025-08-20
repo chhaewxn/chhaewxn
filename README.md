@@ -8,7 +8,7 @@
 </p>
 
 ### 👩‍💻 Career
-- F&F, AI Engineer Intern *2025. 05. ~ now* 
+- F&F, AI Engineer *2025. 05. ~ now* 
 - MINDs and company, AI Engineer Intern *2024. 09. ~ 2025. 03.*
 - Air Liquide Korea, Process Automation Engineer Intern *2024. 07. ~ 2024. 08.*
   
