@@ -8,6 +8,7 @@
 </p>
 
 ### 👩‍💻 Career
-- F&F, AI Engineer *2025. 05. ~ now* 
+- Lotte Insurance co. ltd, AI Engineer *2025. 09. ~ now* 
+- F&F, AI Engineer *2025. 05. ~ 2025. 09.* 
 - MINDs and company, AI Engineer Intern *2024. 09. ~ 2025. 03.*
 - Air Liquide Korea, Process Automation Engineer Intern *2024. 07. ~ 2024. 08.*
